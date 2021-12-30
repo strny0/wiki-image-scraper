@@ -36,6 +36,18 @@ Run the program
 python3 scrape_wiki.py links.txt ./output
 ```
 
+## Input file
+
+Exammple file with urls
+
+file: links.txt
+contents:
+```txt
+https://en.wikipedia.org/wiki/Hạ_Long_Bay
+https://en.wikipedia.org/wiki/Victoria_Falls
+https://en.wikipedia.org/wiki/Great_Zimbabwe
+```
+
 ## License
 
 MIT
