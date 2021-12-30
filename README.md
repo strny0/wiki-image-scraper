@@ -38,7 +38,7 @@ python3 scrape_wiki.py links.txt ./output
 
 ## Input file
 
-Exammple file with urls
+Example file with urls
 
 file: links.txt
 contents:
